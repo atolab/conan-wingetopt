@@ -9,7 +9,7 @@ class WingetoptConan(ConanFile):
     name = "wingetopt"
     version = "0.95"
     homepage = "https://github.com/alex85k/wingetopt"
-    url = "https://github.com/k0ekk0ek/conan-wingetopt"
+    url = "https://github.com/atolab/conan-wingetopt"
     description = "getopt library for Windows compilers"
     license = "MIT, BSD-2-Clause"
     exports = ["LICENSE.md"]
