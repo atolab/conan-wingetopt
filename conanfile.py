@@ -47,3 +47,5 @@ class WingetoptConan(ConanFile):
 
     def package_info(self):
         self.cpp_info.libs = tools.collect_libs(self)
+        if self.options.shared:
+            self.cpp_info.defines.append('WINGETOPT_SHARED_LIB')
