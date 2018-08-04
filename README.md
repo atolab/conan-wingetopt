@@ -1,8 +1,8 @@
 ## Package Status
 
-| Bintray | Windows | Linux & macOS |
-|:--------:|:---------:|:-----------------:|
-|BINTRAY_BADGE_URL|APPVEYOR_BADGE_URL|TRAVIS_BADGE_URL|
+| Bintray | Windows |
+|:--------:|:---------:|
+|[ ![Download](https://api.bintray.com/packages/atolab/public-conan/wingetopt%3Aatolab/images/download.svg?version=0.95%3Astable) ](https://bintray.com/atolab/public-conan/wingetopt%3Aatolab/0.95%3Astable/link)|[![Build status](https://ci.appveyor.com/api/projects/status/1cuh23q8muaikghw/branch/stable/0.95?svg=true)](https://ci.appveyor.com/project/ATOLab/conan-wingetopt/branch/stable/0.95)|
 
 ## Conan.io Information
 
